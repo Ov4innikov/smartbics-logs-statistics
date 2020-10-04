@@ -1,0 +1,4 @@
+mode: hours
+
+logs:
+  path: src/test/resources
